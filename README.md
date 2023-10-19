@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kashyap</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamkyup&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhamkyup" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamkyup" alt="Shubhamkyup" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamkashyap1601" alt="Shubhamkashyap1601" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
