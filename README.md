@@ -8,7 +8,8 @@
 - 📫 How to reach me **shubhamkyup@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11fsvyIb13-BQ-JO14nn18unqy9TryRwc/view?usp=drive_link](https://drive.google.com/file/d/11fsvyIb13-BQ-JO14nn18unqy9TryRwc/view?usp=drive_link)
-- <img align="centre" alt="Coding" src="https://github.com/Shubhamkashyap1601/Shubhamkashyap1601/assets/110350667/06d4259d-4bf7-45c2-900e-e2a66b1fd017">
+- <img align="centre" alt="Coding" src="https://github.com/Shubhamkashyap1601/Shubhamkashyap1601/assets/110350667/06d4259d-4bf7-45c2-900e-e2a66b1fd017"> ![no-sleep](https://github.com/Shubhamkashyap1601/Shubhamkashyap1601/assets/110350667/ec7948ca-cc6d-49ea-84ac-6927a98c7055)
+
 
 
 <h3 align="left">Connect with me:</h3>
