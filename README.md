@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **shubhamkyup@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1eAp8pZvsXsHzLSOsrYF_VZKbEgnTaHoK/view?usp=sharing](https://drive.google.com/file/d/1NhpzMNmam3e9tiyiKWOx_ge-Mmx5o_ls/view?usp=sharing))
-![cold-boy](https://github.com/Shubhamkashyap1601/Shubhamkashyap1601/assets/110350667/66cef72a-968f-41da-8f68-f88b267ee73d)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NhpzMNmam3e9tiyiKWOx_ge-Mmx5o_ls/view?usp=sharing)
 
 
 
